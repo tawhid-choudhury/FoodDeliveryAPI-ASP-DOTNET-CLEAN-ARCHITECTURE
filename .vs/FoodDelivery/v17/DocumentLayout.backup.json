@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|solutionrelative:fooddelivery.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|solutionrelative:fooddelivery.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.api\\fooddelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|solutionrelative:fooddelivery.api\\fooddelivery.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|solutionrelative:fooddelivery.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\common\\services\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\common\\services\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|solutionrelative:fooddelivery.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|solutionrelative:fooddelivery.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926FD410-0912-361F-34F5-1FC68DCCD17C}|FoodDelivery.API\\FoodDelivery.API.csproj|solutionrelative:fooddelivery.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.infrastructure\\handlers\\menu\\getmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|solutionrelative:fooddelivery.infrastructure\\handlers\\menu\\getmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.infrastructure\\handlers\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73585900-5560-9EC4-E972-011F43FE09C4}|FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj|solutionrelative:fooddelivery.infrastructure\\handlers\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|solutionrelative:fooddelivery.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\features\\orders\\queries\\getmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\features\\orders\\queries\\getmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|solutionrelative:fooddelivery.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\features\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\features\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\features\\orders\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\features\\orders\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\features\\orders\\dtos\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\features\\orders\\dtos\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\common\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\common\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\common\\interfaces\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\common\\interfaces\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.application\\common\\interfaces\\idispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB357A44-7318-D71B-6E31-67A2C0A5EE2A}|FoodDelivery.Application\\FoodDelivery.Application.csproj|solutionrelative:fooddelivery.application\\common\\interfaces\\idispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|d:\\0. projects\\fooddelivery\\fooddelivery\\fooddelivery.domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB36A0-2880-0947-0117-6248E2DA5B5C}|FoodDelivery.Domain\\FoodDelivery.Domain.csproj|solutionrelative:fooddelivery.domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Infrastructure\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "FoodDelivery.Infrastructure\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:46:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodDelivery.API\\appsettings.json",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\appsettings.json",
+              "RelativeToolTip": "FoodDelivery.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T12:20:27.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FoodDelivery.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:16:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Services\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Common\\Services\\Dispatcher.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Services\\Dispatcher.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Common\\Services\\Dispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:23:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodDelivery.API.csproj",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\FoodDelivery.API.csproj",
+              "RelativeDocumentMoniker": "FoodDelivery.API\\FoodDelivery.API.csproj",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\FoodDelivery.API.csproj",
+              "RelativeToolTip": "FoodDelivery.API\\FoodDelivery.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T12:30:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Program.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.API\\Program.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Program.cs",
+              "RelativeToolTip": "FoodDelivery.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:08:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetMenuHandler.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Handlers\\Menu\\GetMenuHandler.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Infrastructure\\Handlers\\Menu\\GetMenuHandler.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Handlers\\Menu\\GetMenuHandler.cs",
+              "RelativeToolTip": "FoodDelivery.Infrastructure\\Handlers\\Menu\\GetMenuHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:47:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FoodDelivery.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:35:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.API\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.API\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "FoodDelivery.API\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:14:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Infrastructure\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "RelativeToolTip": "FoodDelivery.Infrastructure\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:34:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "FoodDelivery.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:23:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Common\\Models\\Result.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:51:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetMenuQuery.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\Queries\\GetMenuQuery.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Features\\Orders\\Queries\\GetMenuQuery.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\Queries\\GetMenuQuery.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Features\\Orders\\Queries\\GetMenuQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:17:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Domain\\Entities\\Restaurant.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "FoodDelivery.Domain\\Entities\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:19:33.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:11:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuItemDto.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\DTOs\\MenuItemDto.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Features\\Orders\\DTOs\\MenuItemDto.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\DTOs\\MenuItemDto.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Features\\Orders\\DTOs\\MenuItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:18:43.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderResponseDto.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\DTOs\\CreateOrderResponseDto.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Features\\Orders\\DTOs\\CreateOrderResponseDto.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Features\\Orders\\DTOs\\CreateOrderResponseDto.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Features\\Orders\\DTOs\\CreateOrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:14:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Common\\Interfaces\\ICommandHandler.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\ICommandHandler.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Common\\Interfaces\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:46:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Common\\Interfaces\\IQueryHandler.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\IQueryHandler.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Common\\Interfaces\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:49:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDispatcher.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\IDispatcher.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Application\\Common\\Interfaces\\IDispatcher.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Application\\Common\\Interfaces\\IDispatcher.cs",
+              "RelativeToolTip": "FoodDelivery.Application\\Common\\Interfaces\\IDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:35:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "FoodDelivery.Domain\\Entities\\MenuItem.cs",
+              "ToolTip": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Domain\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "FoodDelivery.Domain\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:22:33.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

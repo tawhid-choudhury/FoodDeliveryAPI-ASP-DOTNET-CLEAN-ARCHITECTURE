@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.MenuController",
+    "Method": "GetMenu",
+    "RelativePath": "api/v1/Menu/{restaurantId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/v1/Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "FoodDelivery.Application.Features.Orders.Commands.CreateOrderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.OrdersController",
+    "Method": "GetOrder",
+    "RelativePath": "api/v1/Orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

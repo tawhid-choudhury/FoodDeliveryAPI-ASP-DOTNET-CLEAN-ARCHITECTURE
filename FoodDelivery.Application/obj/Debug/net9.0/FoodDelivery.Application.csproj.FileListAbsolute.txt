@@ -1,0 +1,15 @@
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.csproj.AssemblyReference.cache
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.AssemblyInfoInputs.cache
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.AssemblyInfo.cs
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.csproj.CoreCompileInputs.cache
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net9.0\FoodDelivery.Application.deps.json
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net9.0\FoodDelivery.Application.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net9.0\FoodDelivery.Application.pdb
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net9.0\FoodDelivery.Domain.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\bin\Debug\net9.0\FoodDelivery.Domain.pdb
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDeli.D0AE88F3.Up2Date
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\refint\FoodDelivery.Application.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.pdb
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\ref\FoodDelivery.Application.dll
