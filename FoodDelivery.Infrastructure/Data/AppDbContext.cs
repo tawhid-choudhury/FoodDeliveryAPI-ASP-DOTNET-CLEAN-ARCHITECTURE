@@ -15,6 +15,7 @@ namespace FoodDelivery.Infrastructure.Data
         public DbSet<Restaurant> Restaurants => Set<Restaurant>();
         public DbSet<MenuItem> MenuItems => Set<MenuItem>();
         public DbSet<Order> Orders => Set<Order>();
+        public DbSet<Customer> Customers => Set<Customer>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

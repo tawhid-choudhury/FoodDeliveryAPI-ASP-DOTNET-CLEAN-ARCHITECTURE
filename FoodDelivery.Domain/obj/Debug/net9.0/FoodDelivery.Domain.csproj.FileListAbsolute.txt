@@ -9,3 +9,4 @@ D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net9.0\Fo
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net9.0\refint\FoodDelivery.Domain.dll
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net9.0\FoodDelivery.Domain.pdb
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net9.0\ref\FoodDelivery.Domain.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Domain\obj\Debug\net9.0\FoodDelivery.Domain.sourcelink.json

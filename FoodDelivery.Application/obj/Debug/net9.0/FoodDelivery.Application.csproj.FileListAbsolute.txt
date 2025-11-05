@@ -13,3 +13,4 @@ D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\refint\FoodDelivery.Application.dll
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.pdb
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\ref\FoodDelivery.Application.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Application\obj\Debug\net9.0\FoodDelivery.Application.sourcelink.json

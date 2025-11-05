@@ -4,9 +4,12 @@ using FoodDelivery.Application.Common.Services;
 using FoodDelivery.Application.Features.Orders.Commands;
 using FoodDelivery.Application.Features.Orders.DTOs;
 using FoodDelivery.Application.Features.Orders.Queries;
+using FoodDelivery.Application.Features.Restaurants.DTOs;
+using FoodDelivery.Application.Features.Restaurants.Queries;
 using FoodDelivery.Infrastructure.Data;
 using FoodDelivery.Infrastructure.Handlers.Menu;
 using FoodDelivery.Infrastructure.Handlers.Orders;
+using FoodDelivery.Infrastructure.Handlers.Restaurants;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
@@ -19,6 +22,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Dispatcher & CQRS Handlers
 builder.Services.AddScoped<IDispatcher, Dispatcher>();
 builder.Services.AddScoped<IQueryHandler<GetMenuQuery, Result<List<MenuItemDto>>>, GetMenuHandler>();
+builder.Services.AddScoped<IQueryHandler<GetRestaurantsQuery, Result<List<RestaurantDto>>>, GetRestaurantsHandler>();
+builder.Services.AddScoped<IQueryHandler<GetRestaurantByIdQuery, Result<RestaurantDto>>, GetRestaurantByIdHandler>();
+builder.Services.AddScoped<IQueryHandler<GetOrdersByCustomerPhoneQuery, Result<List<OrderDto>>>, GetOrdersByCustomerPhoneHandler>();
 builder.Services.AddScoped<ICommandHandler<CreateOrderCommand, Result<CreateOrderResponseDto>>, CreateOrderHandler>();
 
 // Controllers & OpenAPI

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cBSyxVnD0EA=",
+  "dgSpecHash": "kyv4B+BcZMk=",
   "success": true,
   "projectFilePath": "D:\\0. PROJECTS\\FoodDelivery\\FoodDelivery\\FoodDelivery.Infrastructure\\FoodDelivery.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.10\\microsoft.entityframeworkcore.relational.9.0.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.10\\microsoft.entityframeworkcore.sqlite.9.0.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.10\\microsoft.entityframeworkcore.sqlite.core.9.0.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.10\\microsoft.entityframeworkcore.tools.9.0.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.10\\microsoft.extensions.caching.abstractions.9.0.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.10\\microsoft.extensions.caching.memory.9.0.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.10\\microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",

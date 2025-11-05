@@ -46,5 +46,63 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.OrdersController",
+    "Method": "GetOrdersByCustomer",
+    "RelativePath": "api/v1/Orders/customer/{phone}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phone",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.RestaurantsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Restaurants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.RestaurantsController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Restaurants/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDelivery.API.Controllers.RestaurantsController",
+    "Method": "GetMenu",
+    "RelativePath": "api/v1/Restaurants/{id}/menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

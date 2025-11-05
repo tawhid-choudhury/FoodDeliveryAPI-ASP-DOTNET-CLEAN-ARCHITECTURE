@@ -17,3 +17,4 @@ D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\n
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net9.0\FoodDelivery.Infrastructure.pdb
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net9.0\FoodDelivery.Infrastructure.genruntimeconfig.cache
 D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net9.0\ref\FoodDelivery.Infrastructure.dll
+D:\0. PROJECTS\FoodDelivery\FoodDelivery\FoodDelivery.Infrastructure\obj\Debug\net9.0\FoodDelivery.Infrastructure.sourcelink.json
